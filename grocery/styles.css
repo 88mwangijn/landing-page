@@ -114,3 +114,38 @@
   .name {
     text-align: right;
   }
+
+  .container5{
+    background-color: #3882f6;
+    font-family: monospace;
+    font-size: 12px;
+    display: flex;
+    padding: 40px 120px;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-right: 180px;
+    margin-left: 32px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+  }
+
+  .call {
+    color: #E5E7EB;
+    font-size: 14px;
+  }
+
+  .action {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .butt2 {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 8px;
+    width: 16%;
+    border: 2px solid #E5E7EB;
+    text-align: center;
+  }
